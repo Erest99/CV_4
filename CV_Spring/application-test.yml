@@ -1,3 +1,5 @@
 spring:
   message: Hello from test
 
+app:
+  label: test

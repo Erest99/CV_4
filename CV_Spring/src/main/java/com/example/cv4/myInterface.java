@@ -1,9 +1,13 @@
 package com.example.cv4;
 
+import org.springframework.context.annotation.Bean;
+import org.springframework.stereotype.Component;
+
+@Component
 public interface myInterface {
 
-
-        public String metoda();
+        @Bean
+        String metoda();
 
 
 }

@@ -1,0 +1,13 @@
+2022-04-12 11:48:42.383  INFO 34988 --- [main] com.example.cv4.Cv4Application           : Starting Cv4Application using Java 11.0.12 on LAPTOP-8KH90QPL with PID 34988 (D:\JAVA_PROGRAMS\CV_Spring\target\classes started by Horky in D:\JAVA_PROGRAMS\CV_Spring)
+2022-04-12 11:48:42.386  INFO 34988 --- [main] com.example.cv4.Cv4Application           : The following 1 profile is active: "devel"
+2022-04-12 11:48:43.127  INFO 34988 --- [main] com.example.cv4.Cv4Application           : Started Cv4Application in 1.182 seconds (JVM running for 2.758)
+2022-04-12 11:48:43.140  INFO 34988 --- [main] com.example.cv4.Cv4Application           : INFO
+2022-04-12 11:48:43.140  WARN 34988 --- [main] com.example.cv4.Cv4Application           : WARN
+2022-04-12 11:48:43.141 ERROR 34988 --- [main] com.example.cv4.Cv4Application           : ERROR
+2022-04-12 11:48:43.316  WARN 34988 --- [main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cv4Application': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'spring.message' in value "${spring.message}"
+2022-04-12 11:49:30.801  INFO 23960 --- [main] com.example.cv4.Cv4Application           : Starting Cv4Application using Java 11.0.12 on LAPTOP-8KH90QPL with PID 23960 (D:\JAVA_PROGRAMS\CV_Spring\target\classes started by Horky in D:\JAVA_PROGRAMS\CV_Spring)
+2022-04-12 11:49:30.803  INFO 23960 --- [main] com.example.cv4.Cv4Application           : The following 1 profile is active: "devel"
+2022-04-12 11:49:31.585  INFO 23960 --- [main] com.example.cv4.Cv4Application           : Started Cv4Application in 1.187 seconds (JVM running for 2.612)
+2022-04-12 11:49:31.596  INFO 23960 --- [main] com.example.cv4.Cv4Application           : INFO
+2022-04-12 11:49:31.596  WARN 23960 --- [main] com.example.cv4.Cv4Application           : WARN
+2022-04-12 11:49:31.597 ERROR 23960 --- [main] com.example.cv4.Cv4Application           : ERROR
